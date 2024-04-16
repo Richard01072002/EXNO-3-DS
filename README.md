@@ -1,4 +1,4 @@
-<img width="485" alt="Screenshot 2024-04-16 at 10 37 32 AM" src="https://github.com/Richard01072002/EXNO-3-DS/assets/141472248/b54f24b8-2b50-4faf-8e8c-d43494710574">## EXNO-3-DS
+## EXNO-3-DS
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
